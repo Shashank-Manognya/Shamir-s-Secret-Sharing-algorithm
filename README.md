@@ -126,4 +126,3 @@ Find the second testcase here.
         "value": "642121030037605"
     }
 }
-give me the program in Javascript
